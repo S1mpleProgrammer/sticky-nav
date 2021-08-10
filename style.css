@@ -73,7 +73,7 @@ body {
 }
 
 .hero {
-    background-image: url('bg.jpg');
+    background-image: url('asset/bg.jpg');
     width: auto;
     height: 100vh;
     background-repeat: no-repeat;
